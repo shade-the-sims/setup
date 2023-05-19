@@ -1,6 +1,8 @@
 # Shade The Sims Setup
 Shade the Sims is a custom ReShade installer tailored for The Sims 4. This project provides the latest releases of the setup tool.
 
+Visit the [website](https://shadethesims.com/)
+
 ## Features
 - Customized ReShade installer specifically designed for The Sims 4.
 - Automatically detects the installation location of The Sims 4.
@@ -12,7 +14,7 @@ Shade the Sims is a custom ReShade installer tailored for The Sims 4. This proje
 - Access to 10+ presets!
 
 ## Installation
-1. Download the latest release. (Soon available on the website)
+1. Download the latest release. (Available on the [website](https://shadethesims.com/download))
 2. Run the Shade The Sims setup tool, and follow the on-screen instructions to complete the installation.
 
 ## Usage
