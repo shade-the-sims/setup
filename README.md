@@ -13,7 +13,7 @@ Visit the [website](https://shadethesims.com/)
 - Intelligently installs shaders with their dependencies.
 - Easy ReShade theme selection.
 - Automatically sets the right global preprocessor definitions.
-- Access to 10+ presets!
+- Access to 8+ presets!
 
 ## 🔧 Installation
 1. Download the latest release. (Available on the [website](https://shadethesims.com/download))
