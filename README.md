@@ -1,4 +1,4 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/shade-the-sims/setup) ![Downloads](https://img.shields.io/github/downloads/shade-the-sims/setup/total) ![GitHub issues](https://img.shields.io/github/issues/shade-the-sims/setup) ![GitHub closed issues](https://img.shields.io/github/issues-closed/shade-the-sims/setup)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/shade-the-sims/setup) ![GitHub all releases](https://img.shields.io/github/downloads/shade-the-sims/setup/total) ![GitHub issues](https://img.shields.io/github/issues/shade-the-sims/setup) ![GitHub closed issues](https://img.shields.io/github/issues-closed/shade-the-sims/setup)
 
 # Shade The Sims Setup
 Shade The Sims is a custom [ReShade installer](https://reshade.me) tailored for The Sims 4. This project provides the latest releases of the setup tool.
